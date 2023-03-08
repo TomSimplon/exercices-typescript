@@ -1,0 +1,41 @@
+
+Exercice 1 :
+constante numéro tickets
+
+// Vérifier si le numéro est compris entre 1 et 5
+si (le numéro du ticket >= 1 && le numéro du ticket <= 5) {
+  // Si le numéro est compris entre 1 et 5, annoncez au client qu'il a gagné
+  afficher ("Félicitations vous avez gagné !");
+} sinon {
+  // Indiquez au client qu'il a perdu et l'inviter à rejouer
+  afficher ("Vous avez perdu mais vous pouvez réessayer");
+}
+
+Exercice 2 :
+// Définition du tableau contenant les prix HT des produits
+produits = [];
+
+// Calcul de la somme des prix HT
+somme = somme de tous les éléments de produits;
+
+// Calcul de la TVA à ajouter (20%)
+TVA = somme * 0.2;
+
+// Calcul du montant TTC à afficher au client
+montantTTC = somme + TVA;
+
+// Affichage du montant TTC au client
+afficher "Le montant de vos courses est de " + montantTTC + " euros TTC";
+
+
+Exercice 3 :
+// const organism: string = "Simplon"
+// const learners: number = 15
+// const promotionStarted: booleen = true
+// const learnerNames: array = ["Vincent", "Toufik", "Tom", "Samuel", "Orhan"]
+// const pedagogicalReferent: objet = { name: "Tiphaine", work: "Simplon" }
+// const absentLearner: undefined = undefined
+// const excludedLearner: unknow = unknow
+
+
+
